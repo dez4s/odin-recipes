@@ -1,0 +1,55 @@
+body{
+    font-family: Verdana, Garamond, sans-serif;
+}
+
+.title{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(234, 165, 27);
+    background-color: lightyellow;
+}
+
+.title.primary{
+    font-size: 60px;
+    text-align: center;
+    color:rgb(188, 52, 52);
+    background-color: rgb(213, 191, 191)
+}
+
+img {
+    height: auto;
+    width: 700px;
+}
+
+.list{
+    font-size: 14px;
+    font-weight: 500;
+    background-color:rgb(134, 255, 74)
+}
+
+.list.step{
+    background-color:rgb(255, 197, 73)
+}
+
+h3{
+    color:white;
+    background-color: rgb(88, 88, 88);
+}
+
+.intro{
+    background-color:lightblue;
+}
+
+.intro p {
+    color:rgb(0, 5, 82);
+}
+
+button{
+    background-color:rgb(194, 194, 194);
+    font-size: 20px;
+    font-weight: 900;  
+    color: white;
+    border-color:rgb(255, 255, 255);
+    height: auto;
+    width: 300px;
+}
